@@ -1,0 +1,25 @@
+TotalTime : 12pm ~ 7pm
+EntryPoint : 西門町
+
+itinerary 1 : 永康街
+  - time : 12:00~12:20
+  - MRT :
+      - route 1 : 西門站(綠線) -> 中正紀念堂站
+      - transfer : 站內轉乘 紅線(往象山)
+      - route 2 : 中正紀念堂站(紅線) -> 東門站
+      - exit : 5 號出口
+
+itinerary 2 : 光華商場
+  - time : 13:50~14:05
+  - MRT :
+      - route 1 : 東門站(橘線 往蘆洲/迴龍) -> 忠孝新生站
+      - exit : 1 號出口
+
+itinerary 3 : 華山文創
+  - time : 14:35~14:45
+  - transport : on-foot (忠孝新生站步行約 8~10 分鐘)
+
+itinerary 4 : 返回西門町
+  - time : 16:00~16:20
+  - MRT :
+      - route 1 : 忠孝新生站(藍線 往頂埔/永寧) -> 西門站
