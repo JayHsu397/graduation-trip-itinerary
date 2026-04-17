@@ -4,9 +4,9 @@ EntryPoint : 西門町
 itinerary 1 : 永康街
   - time : 12:00~12:20
   - MRT :
-      - route 1 : 西門站(綠線) -> 中正紀念堂站
+      - route 1 : 西門站(綠線 往新店方向) -> 中正紀念堂站
       - transfer : 站內轉乘 紅線(往象山)
-      - route 2 : 中正紀念堂站(紅線) -> 東門站
+      - route 2 : 中正紀念堂站(紅線 往象山) -> 東門站
       - exit : 5 號出口
 
 itinerary 2 : 光華商場
